@@ -6,7 +6,7 @@ title: archive
 logo:
 author: seeyeun
 description: this is a storage
-email: steve.fruits@email.com
+#email: steve.fruits@email.com
 #phone: +880 2544 658 256
 #address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -48,7 +48,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb:+= 
+blurb: += 
 blurb-btn-link: "/about"
 blurb-btn-name: More
 
