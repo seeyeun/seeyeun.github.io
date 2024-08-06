@@ -48,9 +48,9 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: W <br> +
+blurb:+= 
 blurb-btn-link: "/about"
-blurb-btn-name: Me
+blurb-btn-name: More
 
 # About Page
 
